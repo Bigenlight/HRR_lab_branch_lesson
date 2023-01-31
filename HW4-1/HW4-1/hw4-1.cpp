@@ -58,11 +58,11 @@ int main(void)
 	student s2; 
 	int i;
 
-	s1.setName("Jack");
+	s1.setName("Junha");
 	s1.setScore(7.0, 10.0);
 	s1.setTrainingpoint(90);
 
-	s2.setName("Peter");
+	s2.setName("Theo");
 	s2.setScore(9.0, 10.0);
 	s2.setTrainingpoint(85);
 
