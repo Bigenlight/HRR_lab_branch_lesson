@@ -59,7 +59,7 @@ int main(void)
 	int i;
 
 	s1.setName("Junha");
-	s1.setScore(7.0, 10.0);
+	s1.setScore(9.0, 10.0);
 	s1.setTrainingpoint(90);
 
 	s2.setName("Theo");
